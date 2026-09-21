@@ -1,7 +1,6 @@
 # Wanderpick — Privacy Policy
 
 **Effective date:** September 21, 2026
-**Published at:** https://frkxo.github.io/wanderpick-legal/ — keep that copy in step with this file.
 
 Wanderpick ("the app") is a mobile app that helps you discover top-rated
 places in cities you want to visit. This policy explains what happens with
