@@ -1,6 +1,7 @@
 # Wanderpick — Privacy Policy
 
-**Effective date:** September 16, 2026
+**Effective date:** September 21, 2026
+**Published at:** https://frkxo.github.io/wanderpick-legal/ — keep that copy in step with this file.
 
 Wanderpick ("the app") is a mobile app that helps you discover top-rated
 places in cities you want to visit. This policy explains what happens with
@@ -30,6 +31,27 @@ your saved places in sync.**
 - **Your account** (only if you create one), see next section.
 
 There are no third-party analytics, crash trackers, or advertising SDKs.
+
+## Your location
+
+The home screen can suggest places in the city you are in right now. This is
+**off until you ask for it**: nothing happens until you tap "Use my location"
+and allow it, and the app only ever reads your position while it is open —
+never in the background.
+
+What happens then:
+
+- Your phone works out a rough position (city-level accuracy is all the app
+  asks for) and **your phone's own software** turns it into a city name. That
+  step happens on the device; no coordinates are sent to us, to Google, or to
+  anyone else.
+- Only the **city name** is used, and only to look up places there — exactly
+  the same request as if you had typed that city into the search box.
+- Your position is **not stored**. Not on our servers, not in your account,
+  not even saved on the phone between launches.
+
+You can turn the permission off again at any time in the iOS Settings app,
+under Wanderpick. The rest of the app keeps working without it.
 
 ## What an account stores
 
